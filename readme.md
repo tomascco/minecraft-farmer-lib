@@ -45,7 +45,9 @@ Setter method to modify `facingNorth` variable.
 ## External links
 
 OpenComputers docs: https://ocdoc.cil.li/
+
 Robot API: https://ocdoc.cil.li/component:robot
+
 Geolyzer API: https://ocdoc.cil.li/component:geolyzer
 
 ## Contributions
