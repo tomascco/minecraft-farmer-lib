@@ -1,0 +1,6 @@
+local thread = require("thread")
+local event = require("event")
+routine = loadfile("/home/routine.lua")
+event.timer(20, function()
+  routine()
+end, math.huge)
